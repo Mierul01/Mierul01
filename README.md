@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Amirul%20Aiman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Web%20%26%20Mobile&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Amirul%20Aiman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Web%20%2B%20Mobile&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://github.com/Mierul01">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%40+a+Cyberjaya-based+company;Shipping+Laravel+%2B+Node.js+%2B+mobile+apps;CS+grad+%40+Universiti+Kebangsaan+Malaysia;RHCSA-track+certified+(RH124+%C2%B7+RH134)" alt="Typing SVG" />
