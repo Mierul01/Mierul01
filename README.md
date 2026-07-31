@@ -2,13 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Amirul%20Aiman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Web%20%26%20Mobile&descAlignY=56&descSize=18" width="100%"/>
 
-<img src="https://img.shields.io/badge/🟢_Open_to_full--time_roles-1f6feb?style=for-the-badge&labelColor=0d1117"/>
-
 <a href="https://github.com/Mierul01">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%40+a+Cyberjaya-based+company;Shipping+Laravel+%2B+Node.js+%2B+mobile+apps;CS+grad+%40+Universiti+Kebangsaan+Malaysia;RHCSA-track+certified+(RH124+%C2%B7+RH134)" alt="Typing SVG" />
 </a>
 
 </div>
+
+<br/>
+
+### About me
+
+I'm a software developer with a background in Computer Science (Software Technology) from Universiti Kebangsaan Malaysia. I like shipping real, working things — web apps, mobile apps, and small tools that solve everyday problems. Currently building and maintaining web + mobile systems as a Software Developer in Cyberjaya, designing RESTful APIs and leading migrations from legacy platforms.
 
 <br/>
 
@@ -40,25 +44,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mierul01&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1f6feb" width="100%"/>
 
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mierul01&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=a371f7&text_color=c9d1d9" width="100%"/>
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mierul01&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=Mierul01&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=f0883e&currStreakLabel=58A6FF" width="100%"/>
+
 </div>
 
 <br/>
