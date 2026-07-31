@@ -40,9 +40,9 @@ I'm a software developer with a background in Computer Science (Software Technol
 
 <div align="center">
 
-### 📈 Activity
+### 📈 Contribution Grid
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mierul01&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1f6feb" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mierul01/Mierul01/main/contribution-grid.svg" width="100%"/>
 
 <img src="https://streak-stats.demolab.com?user=Mierul01&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=f0883e&currStreakLabel=58A6FF" width="100%"/>
 
@@ -75,7 +75,7 @@ Final-year project @ Politeknik Ungku Omar — workplace safety.
 <td width="50%">
 
 **[Loan Tracker](https://github.com/Mierul01/loan-tracker-using-laravel)**
-Laravel app to track loans & repayment status in one place.
+Laravel app for tracking loans & repayment status.
 
 </td>
 <td width="50%">
