@@ -21,7 +21,7 @@ I'm a software developer with a background in Computer Science (Software Technol
 | 🎓 **Education** | B.CS (Hons), Software Technology — Universiti Kebangsaan Malaysia, Oct 2022 – Nov 2025 |
 | 💼 **Currently** | Software Developer, Cyberjaya — building & maintaining web + mobile systems, RESTful APIs, legacy migrations *(Jan 2025 – present)* |
 | 📜 **Certified** | Red Hat System Administration I & II (RH124 · RH134) |
-| 📄 **Portfolio** | [mydigitalcv-o78i.onrender.com](https://mydigitalcv-o78i.onrender.com) |
+| 📄 **Portfolio** | [mydigitalcv-o78i.onrender.com](https://amirulaimandev.netlify.app/) |
 | 📫 **Reach me** | [miexrulaiman7@gmail.com](mailto:miexrulaiman7@gmail.com) |
 
 <br/>
