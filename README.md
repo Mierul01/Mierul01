@@ -1,8 +1,6 @@
 <!--
-  ============================================================
   IMPORTANT: In GitHub → Edit README → Select ALL → Delete
   Then paste ONLY this file. Do NOT mix with old content.
-  ============================================================
 -->
 
 <div align="center">
@@ -37,18 +35,14 @@
   </a>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
----
-
-<br/>
-
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 
 <br/>
 
 <p align="justify">
-I'm a software developer with a background in Computer Science (Software Technology) from <b>Universiti Kebangsaan Malaysia</b>. I like shipping real, working products — web apps, mobile apps, and small tools that solve everyday problems. Currently building and maintaining web + mobile systems in <b>Cyberjaya</b>, designing RESTful APIs and leading migrations from legacy platforms.
+I'm a software developer with a background in Computer Science (Software Technology) from <b>Universiti Kebangsaan Malaysia</b>. I like shipping real, working products: web apps, mobile apps, and small tools that solve everyday problems. Currently building and maintaining web + mobile systems in <b>Cyberjaya</b>, designing RESTful APIs and leading migrations from legacy platforms.
 </p>
 
 <br/><br/>
@@ -56,11 +50,11 @@ I'm a software developer with a background in Computer Science (Software Technol
 <table>
   <tr>
     <td width="160"><b>🎓 &nbsp; Education</b></td>
-    <td>B.CS (Hons), Software Technology — Universiti Kebangsaan Malaysia<br/><sub>Oct 2022 – Nov 2025</sub></td>
+    <td>B.CS (Hons), Software Technology · Universiti Kebangsaan Malaysia<br/><sub>Oct 2022 to Nov 2025</sub></td>
   </tr>
   <tr>
     <td><b>💼 &nbsp; Currently</b></td>
-    <td>Software Developer, Cyberjaya — web + mobile systems, RESTful APIs, legacy migrations<br/><sub>Jan 2025 – present</sub></td>
+    <td>Software Developer, Cyberjaya · web + mobile systems, RESTful APIs, legacy migrations<br/><sub>Jan 2025 to present</sub></td>
   </tr>
   <tr>
     <td><b>📜 &nbsp; Certified</b></td>
@@ -80,13 +74,9 @@ I'm a software developer with a background in Computer Science (Software Technol
   </tr>
 </table>
 
-<br/><br/>
+<br/><br/><br/>
 
----
-
-<br/>
-
-<h2 align="center">Tech Stack</h2>
+<h3 align="center">Tech Stack</h3>
 
 <br/>
 
@@ -106,13 +96,9 @@ I'm a software developer with a background in Computer Science (Software Technol
   <img src="https://img.shields.io/badge/Red_Hat-RHCSA%20track-EE0000?style=flat-square&logo=redhat&logoColor=white&labelColor=0d1117" alt="RHCSA"/>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
----
-
-<br/>
-
-<h2 align="center">GitHub Stats</h2>
+<h3 align="center">GitHub Stats</h3>
 
 <br/>
 
@@ -127,13 +113,9 @@ I'm a software developer with a background in Computer Science (Software Technol
   <img src="https://streak-stats.demolab.com/?user=Mierul01&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=21262D" width="90%" alt="Streak"/>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
----
-
-<br/>
-
-<h2 align="center">Selected Projects</h2>
+<h3 align="center">Selected Projects</h3>
 
 <br/>
 
@@ -141,9 +123,27 @@ I'm a software developer with a background in Computer Science (Software Technol
   <tr>
     <td width="50%" valign="top">
       <br/>
+      <b><a href="https://github.com/Mierul01/haven-clinic-management-system">Haven</a></b>
+      <br/><br/>
+      <p align="justify">Clinic management system for appointments, patient records, and clinic operations.</p>
+      <img src="https://img.shields.io/badge/Full%20stack-1f6feb?style=flat-square&labelColor=161b22" alt="Full stack"/>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Mierul01/studio-management-system">Studio Management System</a></b>
+      <br/><br/>
+      <p align="justify">Studio operations platform for bookings, schedules, and day to day studio management.</p>
+      <img src="https://img.shields.io/badge/Management-58A6FF?style=flat-square&labelColor=161b22" alt="Management"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
       <b><a href="https://github.com/Mierul01/LogBookDigital-">LogBook Digital+</a></b>
       <br/><br/>
-      <p align="justify">Final-year project @ UKM — digital logbook for academic workflows.</p>
+      <p align="justify">Final year project @ UKM · digital logbook for academic workflows.</p>
       <img src="https://img.shields.io/badge/Academic-1f6feb?style=flat-square&labelColor=161b22" alt="Academic"/>
       <br/><br/>
     </td>
@@ -151,7 +151,7 @@ I'm a software developer with a background in Computer Science (Software Technol
       <br/>
       <b><a href="https://github.com/Mierul01/ProSafety-Application">ProSafety Application</a></b>
       <br/><br/>
-      <p align="justify">Final-year project @ Politeknik Ungku Omar — workplace safety.</p>
+      <p align="justify">Final year project @ Politeknik Ungku Omar · workplace safety.</p>
       <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&labelColor=161b22" alt="Mobile"/>
       <br/><br/>
     </td>
@@ -169,7 +169,7 @@ I'm a software developer with a background in Computer Science (Software Technol
       <br/>
       <b><a href="https://github.com/Mierul01/MyCafe_App">MyCafe App</a></b>
       <br/><br/>
-      <p align="justify">Mobile cafe-ordering experience — menu browsing and order flow.</p>
+      <p align="justify">Mobile cafe ordering experience for menu browsing and order flow.</p>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=161b22" alt="Android"/>
       <br/><br/>
     </td>
@@ -187,7 +187,7 @@ I'm a software developer with a background in Computer Science (Software Technol
       <br/>
       <b><a href="https://github.com/Mierul01/DigitalKadRaya">Digital Kad Raya</a></b>
       <br/><br/>
-      <p align="justify">Digital Hari Raya greeting-card experience.</p>
+      <p align="justify">Digital Hari Raya greeting card experience.</p>
       <img src="https://img.shields.io/badge/Creative-f0883e?style=flat-square&labelColor=161b22" alt="Creative"/>
       <br/><br/>
     </td>
@@ -197,7 +197,7 @@ I'm a software developer with a background in Computer Science (Software Technol
       <br/>
       <b><a href="https://github.com/Mierul01/Laravel_Project">NewsLetter</a></b>
       <br/><br/>
-      <p align="justify">Laravel mini project for an industrial-training interview pre-test.</p>
+      <p align="justify">Laravel mini project for an industrial training interview pre test.</p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=161b22" alt="Laravel"/>
       <br/><br/>
     </td>
@@ -205,7 +205,7 @@ I'm a software developer with a background in Computer Science (Software Technol
       <br/>
       <b><a href="https://github.com/Mierul01/CRUD-with-Node-js-API">CRUD with Node.js API</a></b>
       <br/><br/>
-      <p align="justify">First full CRUD API — create, read, update, delete.</p>
+      <p align="justify">First full CRUD API: create, read, update, delete.</p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=161b22" alt="Node.js"/>
       <br/><br/>
     </td>
@@ -220,13 +220,9 @@ I'm a software developer with a background in Computer Science (Software Technol
   </a>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
----
-
-<br/>
-
-<h2 align="center">Contribution Grid</h2>
+<h3 align="center">Contribution Grid</h3>
 
 <br/>
 
@@ -234,13 +230,9 @@ I'm a software developer with a background in Computer Science (Software Technol
   <img src="https://raw.githubusercontent.com/Mierul01/Mierul01/main/contribution-grid.svg" width="100%" alt="Contribution grid"/>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
----
-
-<br/>
-
-<h2 align="center">Connect With Me</h2>
+<h3 align="center">Connect With Me</h3>
 
 <br/>
 
