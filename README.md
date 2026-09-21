@@ -62,15 +62,27 @@ I'm a software developer with a background in Computer Science (Software Technol
   </tr>
   <tr>
     <td><b>🌐 &nbsp; Portfolio</b></td>
-    <td><a href="https://amirulaimandev.netlify.app/">amirulaimandev.netlify.app</a></td>
+    <td>
+      <a href="https://amirulaimandev.netlify.app/">
+        <img src="https://img.shields.io/badge/amirulaimandev.netlify.app-1f6feb?style=flat-square&labelColor=0d1117" alt="Portfolio"/>
+      </a>
+    </td>
   </tr>
   <tr>
     <td><b>🔗 &nbsp; LinkedIn</b></td>
-    <td><a href="https://www.linkedin.com/in/amirulaimanz">linkedin.com/in/amirulaimanz</a></td>
+    <td>
+      <a href="https://www.linkedin.com/in/amirulaimanz">
+        <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Famirulaimanz-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+      </a>
+    </td>
   </tr>
   <tr>
     <td><b>📫 &nbsp; Reach me</b></td>
-    <td><a href="mailto:miexrulaiman7@gmail.com">miexrulaiman7@gmail.com</a></td>
+    <td>
+      <a href="mailto:miexrulaiman7@gmail.com">
+        <img src="https://img.shields.io/badge/miexrulaiman7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -123,90 +135,110 @@ I'm a software developer with a background in Computer Science (Software Technol
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/haven-clinic-management-system">Haven</a></b>
+      <b>Haven</b>
       <br/><br/>
       <p align="justify">Clinic management system for appointments, patient records, and clinic operations.</p>
-      <img src="https://img.shields.io/badge/Full%20stack-1f6feb?style=flat-square&labelColor=161b22" alt="Full stack"/>
+      <a href="https://github.com/Mierul01/haven-clinic-management-system">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/studio-management-system">Studio Management System</a></b>
+      <b>Studio Management System</b>
       <br/><br/>
       <p align="justify">Studio operations platform for bookings, schedules, and day to day studio management.</p>
-      <img src="https://img.shields.io/badge/Management-58A6FF?style=flat-square&labelColor=161b22" alt="Management"/>
+      <a href="https://github.com/Mierul01/studio-management-system">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/LogBookDigital-">LogBook Digital+</a></b>
+      <b>LogBook Digital+</b>
       <br/><br/>
       <p align="justify">Final year project @ UKM · digital logbook for academic workflows.</p>
-      <img src="https://img.shields.io/badge/Academic-1f6feb?style=flat-square&labelColor=161b22" alt="Academic"/>
+      <a href="https://github.com/Mierul01/LogBookDigital-">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/ProSafety-Application">ProSafety Application</a></b>
+      <b>ProSafety Application</b>
       <br/><br/>
       <p align="justify">Final year project @ Politeknik Ungku Omar · workplace safety.</p>
-      <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&labelColor=161b22" alt="Mobile"/>
+      <a href="https://github.com/Mierul01/ProSafety-Application">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/loan-tracker-using-laravel">Loan Tracker</a></b>
+      <b>Loan Tracker</b>
       <br/><br/>
       <p align="justify">Laravel app for tracking loans and repayment status.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=161b22" alt="Laravel"/>
+      <a href="https://github.com/Mierul01/loan-tracker-using-laravel">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/MyCafe_App">MyCafe App</a></b>
+      <b>MyCafe App</b>
       <br/><br/>
       <p align="justify">Mobile cafe ordering experience for menu browsing and order flow.</p>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=161b22" alt="Android"/>
+      <a href="https://github.com/Mierul01/MyCafe_App">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/event-booking">Event Booking</a></b>
+      <b>Event Booking</b>
       <br/><br/>
       <p align="justify">Web app for browsing and booking events online.</p>
-      <img src="https://img.shields.io/badge/Web-1f6feb?style=flat-square&labelColor=161b22" alt="Web"/>
+      <a href="https://github.com/Mierul01/event-booking">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/DigitalKadRaya">Digital Kad Raya</a></b>
+      <b>Digital Kad Raya</b>
       <br/><br/>
       <p align="justify">Digital Hari Raya greeting card experience.</p>
-      <img src="https://img.shields.io/badge/Creative-f0883e?style=flat-square&labelColor=161b22" alt="Creative"/>
+      <a href="https://github.com/Mierul01/DigitalKadRaya">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/Laravel_Project">NewsLetter</a></b>
+      <b>NewsLetter</b>
       <br/><br/>
       <p align="justify">Laravel mini project for an industrial training interview pre test.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=161b22" alt="Laravel"/>
+      <a href="https://github.com/Mierul01/Laravel_Project">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Mierul01/CRUD-with-Node-js-API">CRUD with Node.js API</a></b>
+      <b>CRUD with Node.js API</b>
       <br/><br/>
       <p align="justify">First full CRUD API: create, read, update, delete.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=161b22" alt="Node.js"/>
+      <a href="https://github.com/Mierul01/CRUD-with-Node-js-API">
+        <img src="https://img.shields.io/badge/Open%20repo-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Open repo"/>
+      </a>
       <br/><br/>
     </td>
   </tr>
