@@ -78,7 +78,7 @@ I'm a software developer with a background in Computer Science (Software Technol
     <td><b>Reach me</b></td>
     <td>
       <a href="mailto:mamirulaimanz01@gmail.com">
-        <img src="https://img.shields.io/badge/miexrulaiman7%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1117" alt=""/>
+        <img src="https://img.shields.io/badge/mamirulaimanz01%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1117" alt=""/>
       </a>
     </td>
   </tr>
@@ -275,7 +275,7 @@ I'm a software developer with a background in Computer Science (Software Technol
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt=""/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:miexrulaiman7@gmail.com">
+  <a href="mailto:mamirulaimanz01@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt=""/>
   </a>
   &nbsp;&nbsp;
