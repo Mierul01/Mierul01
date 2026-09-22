@@ -77,7 +77,7 @@ I'm a software developer with a background in Computer Science (Software Technol
   <tr>
     <td><b>Reach me</b></td>
     <td>
-      <a href="mailto:miexrulaiman7@gmail.com">
+      <a href="mailto:mamirulaimanz01@gmail.com">
         <img src="https://img.shields.io/badge/miexrulaiman7%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1117" alt=""/>
       </a>
     </td>
